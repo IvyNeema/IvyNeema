@@ -2,7 +2,7 @@
 
 🎓 **BSc (Hons) Computer Science (Cyber Security)**  
 Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur  
-**Dean’s List (Year 1)**  
+
 
 ---
 
