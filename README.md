@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivy Neema Wairi  
 
-<!--
-**IvyNeema/IvyNeema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc (Hons) Computer Science (Cyber Security)**  
+Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur  
+**Dean’s List (Year 1)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+💻 Passionate about cybersecurity, ethical hacking, and network defense.  
+🔐 Experienced in network simulation (Cisco Packet Tracer), Linux system forensics, and CTF challenges.  
+📚 Currently exploring penetration testing and security automation.
+
+---
+
+### 🛠️ Skills
+- **Languages:** Python, Java, Bash, SQL  
+- **Networking:** Cisco Packet Tracer, Wireshark, nmap  
+- **Security Tools:** Ghidra, steghide, binwalk, tshark  
+- **OS:** Linux (Ubuntu, Rocky), Windows  
+
+---
+
+### 🏆 Certifications
+| Certificate | Issuer | Date |
+|--------------|---------|------|
+| CCNA: Introduction to Networks | Cisco Networking Academy (APU) | Apr 2025 |
+| Zero to Cyber Hero: Hands-on Hacking Workshop | APU Corporate Training | Sep 2025 |
+| GODAMLah Hackathon (Team ENDCRYPT?) | APU | 2025 |
+| Internal CTF Participant | APU | 2025 |
+
+---
+
+### 🚀 Featured Projects
+- 🔐 [University Management System](#)  
+- 🌐 [Network Design - Multi-Branch VLAN Setup](#)  
+- 🧠 [CTF Writeups (OverTheWire, PicoCTF)](#)  
+- 📊 [Community E-Library Database Project](#)  
+
+---
+
+### 📊 GitHub Stats
+![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivy_Neema-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-ivy.neema%40mail.apu.edu.my-red?style=flat-square&logo=gmail)](mailto:ivy.neema@mail.apu.edu.my)
