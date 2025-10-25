@@ -46,5 +46,6 @@ Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivy_Neema-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-ivy.neema%40mail.apu.edu.my-red?style=flat-square&logo=gmail)](mailto:ivy.neema@mail.apu.edu.my)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivy_Neema-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/ivy-neema-121910262
+)
+[![Email](https://img.shields.io/badge/Email-tp085624%40mail.apu.edu.my-red?style=flat-square&logo=gmail)](mailto:tp085624@mail.apu.edu.my)
