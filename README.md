@@ -22,7 +22,7 @@ Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur
 ---
 
 ### 🏆 Certifications
-Here are some of my verified certifications and participation records in cybersecurity and networking:
+Here are some of my verified certifications and achievements in cybersecurity and networking:
 
 | Certificate | Issuer | Date |
 |--------------|---------|------|
