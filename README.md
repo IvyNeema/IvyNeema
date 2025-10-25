@@ -52,6 +52,5 @@ Here are some of my verified certifications and achievements in cybersecurity an
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivy_Neema-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/ivy-neema-121910262
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivy_Neema-blue?style=flat-square&logo=linkedin)]([www.linkedin.com/in/ivy-neema-121910262](https://www.linkedin.com/in/ivy-neema-121910262/)
 [![Email](https://img.shields.io/badge/Email-tp085624%40mail.apu.edu.my-red?style=flat-square&logo=gmail)](mailto:tp085624@mail.apu.edu.my)
