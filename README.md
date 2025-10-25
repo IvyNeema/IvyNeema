@@ -46,8 +46,10 @@ Here are some of my verified certifications and achievements in cybersecurity an
 ---
 
 ### 📊 GitHub Stats
-![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvyNeema&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvyNeema&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvyNeema&theme=tokyonight)
+
 
 ---
 
