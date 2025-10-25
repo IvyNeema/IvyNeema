@@ -45,10 +45,21 @@ Here are some of my verified certifications and achievements in cybersecurity an
 
 ---
 
-### 📊 GitHub Stats
-![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvyNeema&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvyNeema&langs_count=3&hide=html,css,javascript&layout=compact&theme=tokyonight&custom_title=Languages:%20Python%20•%20C%23%20•%20Java)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvyNeema&theme=tokyonight)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Overall Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=IvyNeema&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&rank_icon=github" height="150" alt="GitHub Stats"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvyNeema&layout=compact&langs_count=3&hide=html,css,javascript&theme=tokyonight&border_radius=12&custom_title=Languages:%20Python%20•%20C%23%20•%20Java" height="150" alt="Top Languages"/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvyNeema&theme=tokyonight&hide_border=false&border_radius=12" height="150" alt="GitHub Streak"/>
+
+</div>
+
 
 
 ---
