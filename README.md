@@ -38,7 +38,7 @@ Here are some of my verified certifications and achievements in cybersecurity an
 ---
 
 ### 🚀 Featured Projects
-- 🔐 [University Management System](#)  
+- 🔐 [University Management System](https://github.com/IvyNeema/University-Management-System)  
 - 🌐 [Network Design - Multi-Branch VLAN Setup](#)  
 - 🧠 [CTF Writeups (OverTheWire, PicoCTF)](#)  
 - 📊 [Course Recovery System for Educational Institutions](#)  
