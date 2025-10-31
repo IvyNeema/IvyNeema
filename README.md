@@ -41,7 +41,7 @@ Here are some of my verified certifications and achievements in cybersecurity an
 - 🔐 [University Management System](#)  
 - 🌐 [Network Design - Multi-Branch VLAN Setup](#)  
 - 🧠 [CTF Writeups (OverTheWire, PicoCTF)](#)  
-- 📊 [Community E-Library Database Project](#)  
+- 📊 [Course Recovery System for Educational Institutions](#)  
 
 ---
 
