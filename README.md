@@ -34,7 +34,7 @@ Here are some of my verified certifications and achievements in cybersecurity an
 | [Zero to Cyber Hero: Hands-on Hacking Workshop](./Zero%20to%20cyber%20hero.pdf) | APU Corporate Training | Sep 2025 |
 | [GODAMLah Hackathon (Team ENDCRYPT?)](./GODAMLah%20Certificate%20of%20participation%20v2%20(40)[1].pdf) | APU | 2025 |
 | [Internal Capture the Flag (CTF)](./internal%20CTF.pdf) | APU | 2025 |
-| [Exploit3rs x BarqSec CTF](./Exploiters%20CTF.pdf) | APU | 2025 |
+| [Exploit3rs x BarqSec CTF](./Exploiters%20CTF.pdf) | Exploit3rs | 2025 |
 
 ---
 
