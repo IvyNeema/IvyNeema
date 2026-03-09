@@ -14,7 +14,7 @@ Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur
 ---
 
 ### 🛠️ Skills
-- **Languages:** Python, Java, SQL  
+- **Languages:** Python, Java, SQL, C#, C++  
 - **Networking:** Cisco Packet Tracer, Wireshark, Burpsuite 
 - **Security Tools:** steghide, binwalk, tshark  
 - **OS:** Linux (Ubuntu, Rocky), Windows  
